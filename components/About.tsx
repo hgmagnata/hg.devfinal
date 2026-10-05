@@ -22,7 +22,7 @@ export const About: React.FC = () => {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-3 gap-8 mb-40 reveal reveal-up">
+        <div className="grid lg:grid-cols-3 gap-8 mb-8 md:mb-14 reveal reveal-up">
           <div className="lg:col-span-2 glass-card rounded-[2.5rem] p-10 md:p-14 border-white/5">
             <h3 className="font-orbitron text-white/20 font-bold text-xs tracking-widest uppercase mb-12">MY SKILLS</h3>
             <div className="grid md:grid-cols-3 gap-10">
